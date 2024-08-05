@@ -1,4 +1,4 @@
-# 3. Steps for Building a Decision Tree Classifier
+#  Steps for Building a Decision Tree Classifier
 # Load the Data
 
 Download the dataset from UCI Machine Learning Repository.
